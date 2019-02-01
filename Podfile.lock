@@ -1,0 +1,16 @@
+PODS:
+  - MMCardView (1.1.2)
+
+DEPENDENCIES:
+  - MMCardView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MMCardView
+
+SPEC CHECKSUMS:
+  MMCardView: 645361f96f223565106c177e6feab2fa613d1b80
+
+PODFILE CHECKSUM: e12025615212abedefedc54d8ff9fc376e4d36ae
+
+COCOAPODS: 1.5.3
